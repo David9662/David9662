@@ -1,4 +1,4 @@
-Hi, my name is Oduor David Otieno.
+Hi, my name is *Oduor David Otieno*.
 Am currently, a final year, pharmacy student at Jomo Kenyatta University of Agriculture and Technology.
 I have always been interested in Software Engineering ever since I was a child. Although am not studying this field in school, I have been teaching myself
 how to code from the internet.I have been learning specifically, Web Development from various platforms such as The Odin Project, FreeCode Camp, and Educative.io.
